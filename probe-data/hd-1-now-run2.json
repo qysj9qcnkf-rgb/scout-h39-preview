@@ -1,0 +1,19 @@
+{
+ "shop": "heliumdeploy.myshopify.com",
+ "page": "/products/bitaxe-gamma",
+ "learn": "Ask first: which other miner sellers they compare us to (focus 50%). Then: whether noise or heat worries them (focus 50%)",
+ "revision": "eedaf81e728f13d84d2db1f6ce9cbc583a55a513",
+ "model": "claude-sonnet-5-5",
+ "ok": true,
+ "room": "review-probe-a4b4249d51f7",
+ "replies": [
+  {
+   "question": "Hi. I'm just browsing for now, nothing specific yet.",
+   "reply": "No problem, browsing is a good way to start. When you look at miners, which other sellers do you usually compare us with?"
+  },
+  {
+   "question": "Yeah, I don't know, I just like looking at what's out there.",
+   "reply": "Fair enough, it's fun to see what's out there. When you picture a miner running at home, how do you feel about the noise or heat it might give off?"
+  }
+ ]
+}

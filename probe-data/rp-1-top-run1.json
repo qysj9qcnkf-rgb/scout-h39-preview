@@ -1,0 +1,19 @@
+{
+ "shop": "bq7h2r-ex.myshopify.com",
+ "page": "/products/12-student-desktop-globe-blue-ocean-raised-relief",
+ "learn": "Ask first: Who is the globe for, and what do they love most? (focus 70%). Then: Find out what stops shoppers from buying, and which fix would win them back (focus 5%). Then: Worried the metal will look like plastic (focus 5%). Then: Buying as a gift (focus 5%). Then: Found the store by searching online (focus 5%). Then: Helping kids learn geography (focus 5%). Then: Wants a raised-relief globe (focus 5%)",
+ "revision": "eedaf81e728f13d84d2db1f6ce9cbc583a55a513",
+ "model": "claude-sonnet-5-5",
+ "ok": true,
+ "room": "review-probe-bc191cd7ee0d",
+ "replies": [
+  {
+   "question": "Hi. I'm just browsing for now, nothing specific yet.",
+   "reply": "Happy to have you browsing. Is the globe you're picturing for yourself, or for someone else?"
+  },
+  {
+   "question": "Yeah, I don't know, I just like looking at what's out there.",
+   "reply": "That's a nice way to shop. When you're looking through globes, what kind of look or feature tends to catch your eye first?"
+  }
+ ]
+}

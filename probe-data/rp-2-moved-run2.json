@@ -1,0 +1,19 @@
+{
+ "shop": "bq7h2r-ex.myshopify.com",
+ "page": "/products/12-student-desktop-globe-blue-ocean-raised-relief",
+ "learn": "Ask first: Where will the globe sit: on a desk, a shelf or the floor? (focus 65%). Then: Find out what stops shoppers from buying, and which fix would win them back (focus 5%). Then: Worried the metal will look like plastic (focus 5%). Then: Buying as a gift (focus 5%). Then: Found the store by searching online (focus 5%). Then: Helping kids learn geography (focus 5%). Then: Wants a raised-relief globe (focus 5%). Then: Who is the globe for, and what do they love most? (focus 5%)",
+ "revision": "eedaf81e728f13d84d2db1f6ce9cbc583a55a513",
+ "model": "claude-sonnet-5-5",
+ "ok": true,
+ "room": "review-probe-a60e9c27df6b",
+ "replies": [
+  {
+   "question": "Hi. I'm just browsing for now, nothing specific yet.",
+   "reply": "No problem, browsing is a good way to start. If you did bring a globe home, where would you picture it sitting: on a desk, a shelf, or the floor?"
+  },
+  {
+   "question": "Yeah, I don't know, I just like looking at what's out there.",
+   "reply": "That's fair, looking around is half the fun. When you're scrolling through globes, what kind tends to catch your eye?"
+  }
+ ]
+}
